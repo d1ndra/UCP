@@ -1,0 +1,12 @@
+{
+    "name": "UCP-node",
+    "version": "0.1.0",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "ejs": "~2.4.1",
+        "express": "~4.13.4",
+        "mongoose": "^4.5.3"
+    }
+}
